@@ -97,7 +97,10 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
-
+h1{
+  font-family: 'Yatra One', monospace;
+  font-size: 3em;
+}
 
 
 
