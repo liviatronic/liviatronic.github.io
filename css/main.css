@@ -99,16 +99,18 @@ textarea {
 
 h1{
   font-family: "hobeaux",sans-serif;
-  font-size: 15vw;
+  font-size: 17vw;
   text-align: center;
   mix-blend-mode: difference;
 }
 
 body {
-  background-image: url("0004364-orig.jpg");
+  background-image: url("images/0004364-orig.jpg");
 }
 
-
+img{
+  max-width: 100%;
+}
 
 
 
