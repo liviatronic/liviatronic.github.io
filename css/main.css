@@ -7,6 +7,7 @@ h1{
   font-family: "hobeaux",sans-serif;
   font-size: 17vw;
   text-align: center;
+  mix-blend-mode: difference;
 }
 
 h2{
@@ -15,8 +16,8 @@ h2{
   text-align: center;
 }
 
-.wrap {
-  mix-blend-mode: difference;
+p{
+  max-width: 600px;
 }
 
 body {
