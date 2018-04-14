@@ -54,7 +54,15 @@ img{
   margin: auto;
 }
 
-
+a {
+   color: #f4027b;
+   font-weight: 700;
+   -webkit-animation: blink .2s infinite alternate;
+   -moz-animation: blink .2s infinite alternate;
+   -ms-animation: blink .2s infinite alternate;  
+   -o-animation: blink .2s infinite alternate;
+   animation: blink .2s infinite alternate;
+}
 
 
 
