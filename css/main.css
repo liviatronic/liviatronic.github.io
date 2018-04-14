@@ -55,13 +55,15 @@ img{
 }
 
 a {
-   color: #f4027b;
-   font-weight: 700;
-   -webkit-animation: blink .2s infinite alternate;
-   -moz-animation: blink .2s infinite alternate;
-   -ms-animation: blink .2s infinite alternate;  
-   -o-animation: blink .2s infinite alternate;
-   animation: blink .2s infinite alternate;
+   color: #ff99f0;
+   text-decoration: none;
+   -webkit-transition: 0.25s color ease;
+   -ms-transition: 0.25s color ease;
+   transition: 0.25s color ease;
+}
+
+a:hover{
+  color: #d017b5;
 }
 
 
