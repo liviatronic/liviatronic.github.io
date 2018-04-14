@@ -12,6 +12,7 @@ h1{
 
 body {
   background-image: url("images/0004364-orig.jpg");
+  background-image: linear-gradient(purple 0%, red 80%), 
 }
 
 img{
