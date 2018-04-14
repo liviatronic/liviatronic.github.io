@@ -101,8 +101,12 @@ h1{
   font-family: "hobeaux",sans-serif;
   font-size: 15vw;
   text-align: center;
+  mix-blend-mode: difference;
 }
 
+body {
+  background-image: url("0004364-orig.jpg");
+}
 
 
 
