@@ -10,10 +10,19 @@ h1{
   mix-blend-mode: difference;
 }
 
+h2{
+  font-family: "hobeaux",sans-serif;
+  font-size: 5vw;
+  text-align: center;
+}
+
 body {
   background-image: linear-gradient(purple 0%, red 80%),
-linear-gradient(to right, purple 0%, yellow 100%),url('/images/0004364-orig.jpg');
+linear-gradient(to right, purple 0%, yellow 100%), url('/images/0004364-orig.jpg');
 background-blend-mode: screen, difference, lighten;
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
 }
 
 img{
